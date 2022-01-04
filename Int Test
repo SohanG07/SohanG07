@@ -1,10 +1,10 @@
 public class SohanG07
 {
-public static void main (String args ())
-{
-int a=23
-int b=32
-int c=a+b
-System.out.println ("The sum of a and b is... "+c)
-}
+  public static void main (int a)
+  {
+    if (a%2==0)
+      System.out.println ("It is an even number");
+    else
+      System.out.println ("It is an odd number");
+  }
 }
