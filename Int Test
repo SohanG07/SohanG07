@@ -1,10 +1,10 @@
 public class SohanG07
 {
-  public static void main (int a)
+  public static void main (int a, int b)
   {
-    if (a%2==0)
-      System.out.println ("It is an even number");
+    if (a%b=0)
+      System.out.println ("A is divisible by B");
     else
-      System.out.println ("It is an odd number");
+      System.out.println ("A is not divisible by B");
   }
 }
