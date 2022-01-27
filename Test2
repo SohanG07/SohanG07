@@ -1,0 +1,11 @@
+public class SohanG07
+{
+  public static void main (int a, int b)
+  {
+    int c=a+b;
+    int d=a-b;
+    int p=a*b
+    int d=a/b;
+    System.out.println ("Sum= "+c+", difference= "+d+", product= "+p+", quotient= "+q);
+  }
+}
