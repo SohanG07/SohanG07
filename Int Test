@@ -2,7 +2,7 @@ public class SohanG07
 {
   public static void Test (int a, int b, int c)
   {
-    if (a/b%c=0 & a*b*c= 100)
+    if (a/b%c=0 & a*b*c= 65200)
       System.out.println ("A is divisible by B and product is 65200");
     else
       System.out.println ("A is not divisible by B and product is not 65200");
