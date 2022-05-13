@@ -1,0 +1,12 @@
+import java.util.Scanner;
+public class test3
+{
+public static void main (String args[])
+{
+scanner sc=new Scanner;
+System.out.println ("How would you rate powerpoint (out of 5)?");
+int star;
+star=sc.nextInt;
+System.out.println ("Thank you for your feedback! You have given: "+star+ " stars");
+}
+}
