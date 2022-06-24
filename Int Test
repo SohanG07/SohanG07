@@ -3,8 +3,8 @@ public class SohanG07
 {
   public static void main (String args[])
   {
-    int a,b,c
-    if a==b && b==c && c==a
+    int a,b,c,d;
+    if a==b && b==c && c==d && d==a)
     {
       System.out.println("They are equal");
     }
