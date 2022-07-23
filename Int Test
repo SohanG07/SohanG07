@@ -3,7 +3,16 @@ public class SohanG07
 {
   public static void main (String args[])
   {
+    Scanner sc=new Scanner (System.in)
     int a,b,c,d;
+    System.out.println ("Enter 1st number: ");
+    a=sc.nextInt();
+    System.out.println ("Enter 2nd number: ");
+    b=sc.nextInt();
+    System.out.println ("Enter 3rd number: ");
+    c=sc.nextInt();
+    System.out.println ("Enter 4th number: ");
+    d=sc.nextInt();
     if a==b && b==c && c==d && d==a)
     {
       System.out.println("They are equal");
