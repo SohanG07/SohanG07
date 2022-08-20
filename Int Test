@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class SohanG07
 {
-  public static void main (String args[])
+  public static void main ()
   {
     Scanner sc=new Scanner (System.in)
     int a,b,c,d;
