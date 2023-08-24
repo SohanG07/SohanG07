@@ -10,7 +10,7 @@ public class SohanG07
     d=0;
    }
    public static void main ()
-   {
+   {int arr[]-new int[5]//inputing array
     Scanner sc=new Scanner (System.in);
     System.out.println ("Enter 1st number: ");
     a=sc.nextInt();
