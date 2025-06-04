@@ -1,5 +1,5 @@
 import java.util.*;
-public class String
+public class nice
 {
   public static void main (String args[])
   {
