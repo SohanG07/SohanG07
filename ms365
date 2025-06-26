@@ -7,5 +7,6 @@ public static void main ()
 Scanner sc=new Scanner (System.in);
 System.out.println ("I am back in development. Please give my MS 365 subscription back or else I won't be able to continue with my work.";
 System.out.println ("Update 5.6.25: It's still inactive. Maybe i'm gonna have to remake another account or something");
+System.out.println ("Update 26.6.25: They gave me 10 days more to check whether I am there or not. LOOK I'M HERE!!!! Now extend this to 120 days please");
 }
 }
